@@ -1,0 +1,12 @@
+C:\Users\williams.x\Documents\GitHub\computer-programing\MyNameProg\MyNameProg\bin\Debug\MyNameProg.exe.config
+C:\Users\williams.x\Documents\GitHub\computer-programing\MyNameProg\MyNameProg\bin\Debug\MyNameProg.exe
+C:\Users\williams.x\Documents\GitHub\computer-programing\MyNameProg\MyNameProg\bin\Debug\MyNameProg.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\MyNameProg\MyNameProg\bin\Debug\IronPython.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\MyNameProg\MyNameProg\bin\Debug\IronPython.Modules.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\MyNameProg\MyNameProg\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\MyNameProg\MyNameProg\bin\Debug\Microsoft.Scripting.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\MyNameProg\MyNameProg\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\MyNameProg\MyNameProg\obj\Debug\MyNameProg.pyprojResolveAssemblyReference.cache
+C:\Users\williams.x\Documents\GitHub\computer-programing\MyNameProg\MyNameProg\obj\Debug\MyNameProg.MainForm.resources
+C:\Users\williams.x\Documents\GitHub\computer-programing\MyNameProg\MyNameProg\obj\Debug\MyNameProg.pyproj.GenerateResource.Cache
+C:\Users\williams.x\Documents\GitHub\computer-programing\MyNameProg\MyNameProg\obj\Debug\MyNameProg.exe

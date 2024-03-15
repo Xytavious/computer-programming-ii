@@ -1,0 +1,12 @@
+C:\Users\williams.x\Documents\GitHub\computer-programing\Prog54c Functions better\Prog54c Functions better\bin\Debug\Prog54c Functions better.exe.config
+C:\Users\williams.x\Documents\GitHub\computer-programing\Prog54c Functions better\Prog54c Functions better\bin\Debug\Prog54c Functions better.exe
+C:\Users\williams.x\Documents\GitHub\computer-programing\Prog54c Functions better\Prog54c Functions better\bin\Debug\Prog54c Functions better.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\Prog54c Functions better\Prog54c Functions better\bin\Debug\IronPython.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\Prog54c Functions better\Prog54c Functions better\bin\Debug\IronPython.Modules.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\Prog54c Functions better\Prog54c Functions better\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\Prog54c Functions better\Prog54c Functions better\bin\Debug\Microsoft.Scripting.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\Prog54c Functions better\Prog54c Functions better\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\Prog54c Functions better\Prog54c Functions better\obj\Debug\Prog54c Functions better.pyprojResolveAssemblyReference.cache
+C:\Users\williams.x\Documents\GitHub\computer-programing\Prog54c Functions better\Prog54c Functions better\obj\Debug\Prog54c_Functions_better.MainForm.resources
+C:\Users\williams.x\Documents\GitHub\computer-programing\Prog54c Functions better\Prog54c Functions better\obj\Debug\Prog54c Functions better.pyproj.GenerateResource.Cache
+C:\Users\williams.x\Documents\GitHub\computer-programing\Prog54c Functions better\Prog54c Functions better\obj\Debug\Prog54c Functions better.exe

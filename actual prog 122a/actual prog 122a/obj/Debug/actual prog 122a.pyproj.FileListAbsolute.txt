@@ -1,0 +1,12 @@
+C:\Users\williams.x\Documents\GitHub\computer-programing\actual prog 122a\actual prog 122a\obj\Debug\actual prog 122a.pyprojResolveAssemblyReference.cache
+C:\Users\williams.x\Documents\GitHub\computer-programing\actual prog 122a\actual prog 122a\obj\Debug\actual_prog_122a.MainForm.resources
+C:\Users\williams.x\Documents\GitHub\computer-programing\actual prog 122a\actual prog 122a\obj\Debug\actual prog 122a.pyproj.GenerateResource.Cache
+C:\Users\williams.x\Documents\GitHub\computer-programing\actual prog 122a\actual prog 122a\bin\Debug\actual prog 122a.exe.config
+C:\Users\williams.x\Documents\GitHub\computer-programing\actual prog 122a\actual prog 122a\bin\Debug\actual prog 122a.exe
+C:\Users\williams.x\Documents\GitHub\computer-programing\actual prog 122a\actual prog 122a\bin\Debug\actual prog 122a.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\actual prog 122a\actual prog 122a\bin\Debug\IronPython.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\actual prog 122a\actual prog 122a\bin\Debug\IronPython.Modules.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\actual prog 122a\actual prog 122a\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\actual prog 122a\actual prog 122a\bin\Debug\Microsoft.Scripting.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\actual prog 122a\actual prog 122a\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\actual prog 122a\actual prog 122a\obj\Debug\actual prog 122a.exe

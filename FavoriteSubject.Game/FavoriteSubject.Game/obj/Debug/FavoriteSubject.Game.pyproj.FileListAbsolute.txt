@@ -1,0 +1,12 @@
+C:\Users\williams.x\Documents\GitHub\computer-programing\FavoriteSubject.Game\FavoriteSubject.Game\bin\Debug\FavoriteSubject.Game.exe.config
+C:\Users\williams.x\Documents\GitHub\computer-programing\FavoriteSubject.Game\FavoriteSubject.Game\bin\Debug\FavoriteSubject.Game.exe
+C:\Users\williams.x\Documents\GitHub\computer-programing\FavoriteSubject.Game\FavoriteSubject.Game\bin\Debug\FavoriteSubject.Game.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\FavoriteSubject.Game\FavoriteSubject.Game\bin\Debug\IronPython.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\FavoriteSubject.Game\FavoriteSubject.Game\bin\Debug\IronPython.Modules.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\FavoriteSubject.Game\FavoriteSubject.Game\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\FavoriteSubject.Game\FavoriteSubject.Game\bin\Debug\Microsoft.Scripting.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\FavoriteSubject.Game\FavoriteSubject.Game\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\FavoriteSubject.Game\FavoriteSubject.Game\obj\Debug\FavoriteSubject.Game.pyprojResolveAssemblyReference.cache
+C:\Users\williams.x\Documents\GitHub\computer-programing\FavoriteSubject.Game\FavoriteSubject.Game\obj\Debug\FavoriteSubject.Game.MainForm.resources
+C:\Users\williams.x\Documents\GitHub\computer-programing\FavoriteSubject.Game\FavoriteSubject.Game\obj\Debug\FavoriteSubject.Game.pyproj.GenerateResource.Cache
+C:\Users\williams.x\Documents\GitHub\computer-programing\FavoriteSubject.Game\FavoriteSubject.Game\obj\Debug\FavoriteSubject.Game.exe

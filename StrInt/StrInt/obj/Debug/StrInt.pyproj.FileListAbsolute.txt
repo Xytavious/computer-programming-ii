@@ -1,0 +1,12 @@
+C:\Users\williams.x\Documents\GitHub\computer-programing\StrInt\StrInt\bin\Debug\StrInt.exe.config
+C:\Users\williams.x\Documents\GitHub\computer-programing\StrInt\StrInt\bin\Debug\StrInt.exe
+C:\Users\williams.x\Documents\GitHub\computer-programing\StrInt\StrInt\bin\Debug\StrInt.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\StrInt\StrInt\bin\Debug\IronPython.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\StrInt\StrInt\bin\Debug\IronPython.Modules.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\StrInt\StrInt\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\StrInt\StrInt\bin\Debug\Microsoft.Scripting.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\StrInt\StrInt\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\StrInt\StrInt\obj\Debug\StrInt.pyprojResolveAssemblyReference.cache
+C:\Users\williams.x\Documents\GitHub\computer-programing\StrInt\StrInt\obj\Debug\StrInt.MainForm.resources
+C:\Users\williams.x\Documents\GitHub\computer-programing\StrInt\StrInt\obj\Debug\StrInt.pyproj.GenerateResource.Cache
+C:\Users\williams.x\Documents\GitHub\computer-programing\StrInt\StrInt\obj\Debug\StrInt.exe

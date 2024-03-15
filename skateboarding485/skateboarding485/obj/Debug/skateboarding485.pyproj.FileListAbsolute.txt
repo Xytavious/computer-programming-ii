@@ -1,0 +1,12 @@
+C:\Users\williams.x\Documents\GitHub\computer-programing\skateboarding485\skateboarding485\bin\Debug\skateboarding485.exe.config
+C:\Users\williams.x\Documents\GitHub\computer-programing\skateboarding485\skateboarding485\bin\Debug\skateboarding485.exe
+C:\Users\williams.x\Documents\GitHub\computer-programing\skateboarding485\skateboarding485\bin\Debug\skateboarding485.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\skateboarding485\skateboarding485\bin\Debug\IronPython.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\skateboarding485\skateboarding485\bin\Debug\IronPython.Modules.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\skateboarding485\skateboarding485\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\skateboarding485\skateboarding485\bin\Debug\Microsoft.Scripting.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\skateboarding485\skateboarding485\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\williams.x\Documents\GitHub\computer-programing\skateboarding485\skateboarding485\obj\Debug\skateboarding485.pyprojResolveAssemblyReference.cache
+C:\Users\williams.x\Documents\GitHub\computer-programing\skateboarding485\skateboarding485\obj\Debug\skateboarding485.MainForm.resources
+C:\Users\williams.x\Documents\GitHub\computer-programing\skateboarding485\skateboarding485\obj\Debug\skateboarding485.pyproj.GenerateResource.Cache
+C:\Users\williams.x\Documents\GitHub\computer-programing\skateboarding485\skateboarding485\obj\Debug\skateboarding485.exe
