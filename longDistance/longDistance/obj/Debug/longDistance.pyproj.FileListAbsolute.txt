@@ -1,0 +1,3 @@
+C:\Users\williams.x\Documents\GitHub\computer-programming\longDistance\longDistance\obj\Debug\longDistance.pyprojResolveAssemblyReference.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming\longDistance\longDistance\obj\Debug\longDistance.MainForm.resources
+C:\Users\williams.x\Documents\GitHub\computer-programming\longDistance\longDistance\obj\Debug\longDistance.pyproj.GenerateResource.Cache
