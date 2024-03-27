@@ -1,7 +1,7 @@
 
 def main():
   try: 
-    with open("langdat/prog213f.dat", 'r') as f:
+    with open("Langdat/prog213f.dat", 'r') as f:
       for line in f:
         ladta = line.split(" ")
 
