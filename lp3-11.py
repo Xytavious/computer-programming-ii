@@ -1,8 +1,8 @@
 def main():
-  desT = float(input(" Enter time spent on designing in minuutes: "))
-  codeT = float(input(" Enter time spent on codeing in minutes: "))
-  deBugT = float(input(" Enter time spent on debugging in minutes: "))
-  testT = float(input( " Enter time spent on Testing in minutes : "))
+  desT = float(input("Enter time spent on designing in minuutes:"))
+  codeT = float(input("Enter time spent on codeing in minutes:"))
+  deBugT = float(input("Enter time spent on debugging in minutes:"))
+  testT = float(input("Enter time spent on Testing in minutes:"))
 
   #total time 
   totT = desT + codeT + deBugT + testT
