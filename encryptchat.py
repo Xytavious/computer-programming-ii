@@ -7,7 +7,7 @@ DEFAULT_IP_PORT =("127.0.0.1", 9999)
 choice = input("Do you want to be sever or client? (s/c): ")
 
 if choice == "s":
-  sever = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+  server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
   server.bind(DEFAULT_IP_PORT)  #open tcp connection
   server.listen()
   print("Waiting for Connection...")
@@ -23,7 +23,7 @@ elif choice == "c":
   print("Success! Connected to", client.getpeername())
   public_parter = rsa.Publickey.load_pkcs1(client.recv(1024))
   client.send(public_key.save_pkcs1())
-  print("use 'Ctrl' to disconnect.)
+  print("use 'Ctrl' to disconnect.")
 else: exit()
 
 def senfMsg(c):
