@@ -1,0 +1,6 @@
+C:\Users\williams.x\Documents\GitHub\computer-programming\C#\Csharp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\williams.x\Documents\GitHub\computer-programming\C#\Csharp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\williams.x\Documents\GitHub\computer-programming\C#\Csharp\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\williams.x\Documents\GitHub\computer-programming\C#\Csharp\ConsoleApplication1\obj\Debug\HelloName.csprojResolveAssemblyReference.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming\C#\Csharp\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\williams.x\Documents\GitHub\computer-programming\C#\Csharp\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

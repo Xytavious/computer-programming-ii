@@ -1,0 +1,7 @@
+C:\Users\williams.x\Documents\GitHub\computer-programming\C#\hellow world\hellow world\bin\Debug\hellow world.exe
+C:\Users\williams.x\Documents\GitHub\computer-programming\C#\hellow world\hellow world\bin\Debug\hellow world.pdb
+C:\Users\williams.x\Documents\GitHub\computer-programming\C#\hellow world\hellow world\obj\Debug\hellow world.csprojResolveAssemblyReference.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming\C#\hellow world\hellow world\obj\Debug\hellow_world.MainForm.resources
+C:\Users\williams.x\Documents\GitHub\computer-programming\C#\hellow world\hellow world\obj\Debug\hellow world.csproj.GenerateResource.Cache
+C:\Users\williams.x\Documents\GitHub\computer-programming\C#\hellow world\hellow world\obj\Debug\hellow world.exe
+C:\Users\williams.x\Documents\GitHub\computer-programming\C#\hellow world\hellow world\obj\Debug\hellow world.pdb
