@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloName", "ConsoleApplica
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fav Club", "Fav Club\Fav Club.csproj", "{AF8FF6EC-B165-45C4-A1C8-0FC7195159D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog52aConsole", "Prog52aConsole\Prog52aConsole.csproj", "{E08CB713-B6B9-4013-B43A-23762D0329A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prog54bConsole", "prog54bConsole\prog54bConsole.csproj", "{AD627ACA-521C-404B-BED5-759B74D82821}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{AF8FF6EC-B165-45C4-A1C8-0FC7195159D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF8FF6EC-B165-45C4-A1C8-0FC7195159D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF8FF6EC-B165-45C4-A1C8-0FC7195159D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E08CB713-B6B9-4013-B43A-23762D0329A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E08CB713-B6B9-4013-B43A-23762D0329A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E08CB713-B6B9-4013-B43A-23762D0329A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E08CB713-B6B9-4013-B43A-23762D0329A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD627ACA-521C-404B-BED5-759B74D82821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD627ACA-521C-404B-BED5-759B74D82821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD627ACA-521C-404B-BED5-759B74D82821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD627ACA-521C-404B-BED5-759B74D82821}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

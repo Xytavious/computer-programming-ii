@@ -1,0 +1,6 @@
+C:\Users\williams.x\Documents\GitHub\computer-programming\C#\Csharp\Prog52aConsole\bin\Debug\Prog52aConsole.exe.config
+C:\Users\williams.x\Documents\GitHub\computer-programming\C#\Csharp\Prog52aConsole\bin\Debug\Prog52aConsole.exe
+C:\Users\williams.x\Documents\GitHub\computer-programming\C#\Csharp\Prog52aConsole\bin\Debug\Prog52aConsole.pdb
+C:\Users\williams.x\Documents\GitHub\computer-programming\C#\Csharp\Prog52aConsole\obj\Debug\Prog52aConsole.csprojResolveAssemblyReference.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming\C#\Csharp\Prog52aConsole\obj\Debug\Prog52aConsole.exe
+C:\Users\williams.x\Documents\GitHub\computer-programming\C#\Csharp\Prog52aConsole\obj\Debug\Prog52aConsole.pdb
