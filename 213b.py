@@ -1,6 +1,5 @@
 q1 = int(input("Enter the Quantity; "))
 
- 
 
 price = 0
 am = price * q1
