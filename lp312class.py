@@ -29,7 +29,6 @@ class ClLP312:
     
 
 
-
 def main():
   print("Enter the amount spent last moth on the following {items: \n")
 
