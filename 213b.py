@@ -1,6 +1,6 @@
 q1 = int(input("Enter the Quantity: "))
 
-
+ 
 price = 0
 am = price * q1
 if 0 < q1 <= 99:
