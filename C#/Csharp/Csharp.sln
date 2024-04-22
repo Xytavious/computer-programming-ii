@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog54cConsole", "Prog54cCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "form1", "form1\form1.csproj", "{A786FA47-0370-431B-85EA-7E7F3B2D4F60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lp4-1.5", "lp4-1.5\lp4-1.5.csproj", "{6346C784-1ED5-46F9-B54D-DDB0580FF6B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,8 +47,15 @@ Global
 		{A786FA47-0370-431B-85EA-7E7F3B2D4F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A786FA47-0370-431B-85EA-7E7F3B2D4F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A786FA47-0370-431B-85EA-7E7F3B2D4F60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6346C784-1ED5-46F9-B54D-DDB0580FF6B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6346C784-1ED5-46F9-B54D-DDB0580FF6B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6346C784-1ED5-46F9-B54D-DDB0580FF6B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6346C784-1ED5-46F9-B54D-DDB0580FF6B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3FF712F-09E9-4EA2-A299-910CF6E6CE8E}
 	EndGlobalSection
 EndGlobal

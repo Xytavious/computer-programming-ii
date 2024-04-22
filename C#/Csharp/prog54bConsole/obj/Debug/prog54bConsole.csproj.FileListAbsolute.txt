@@ -4,3 +4,6 @@ C:\Users\williams.x\Documents\GitHub\computer-programming\C#\Csharp\prog54bConso
 C:\Users\williams.x\Documents\GitHub\computer-programming\C#\Csharp\prog54bConsole\bin\Debug\prog54bConsole.pdb
 C:\Users\williams.x\Documents\GitHub\computer-programming\C#\Csharp\prog54bConsole\obj\Debug\prog54bConsole.exe
 C:\Users\williams.x\Documents\GitHub\computer-programming\C#\Csharp\prog54bConsole\obj\Debug\prog54bConsole.pdb
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\prog54bConsole\bin\Debug\prog54bConsole.exe.config
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\prog54bConsole\obj\Debug\prog54bConsole.exe
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\prog54bConsole\obj\Debug\prog54bConsole.pdb

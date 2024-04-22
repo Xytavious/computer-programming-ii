@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a786fa47-0370-431b-85ea-7e7f3b2d4f60": {
+      "ProjectGuid": "a786fa47-0370-431b-85ea-7e7f3b2d4f60",
+      "DisplayName": "form1",
+      "ColorIndex": 0
+    },
+    "e08cb713-b6b9-4013-b43a-23762d0329a8": {
+      "ProjectGuid": "e08cb713-b6b9-4013-b43a-23762d0329a8",
+      "DisplayName": "Prog52aConsole",
+      "ColorIndex": 1
+    },
+    "40bec81c-bc87-45a4-8d49-b90b5be7ca8b": {
+      "ProjectGuid": "40bec81c-bc87-45a4-8d49-b90b5be7ca8b",
+      "DisplayName": "HelloName",
+      "ColorIndex": 2
+    },
+    "496ca4d3-bdc9-4cce-a500-baab393d7d68": {
+      "ProjectGuid": "496ca4d3-bdc9-4cce-a500-baab393d7d68",
+      "DisplayName": "Prog54cConsole",
+      "ColorIndex": 3
+    },
+    "12f5d788-461a-4e27-a2c4-5c2ac69267dd": {
+      "ProjectGuid": "12f5d788-461a-4e27-a2c4-5c2ac69267dd",
+      "DisplayName": "lp4-1",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
