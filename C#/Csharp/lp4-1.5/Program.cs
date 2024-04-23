@@ -14,7 +14,7 @@ namespace lp4_1._5
             int copies = int.Parse(Console.ReadLine());
             double price = 0;
             double cost = 0;
-            // && and, 
+            // && and,  || or Not !
             if (copies > 0 && copies <= 99) price = 0.30;
             else if (copies > 99 && copies <= 499) price = 0.28;
             else if (copies > 499 && copies <= 749) price = 0.27;

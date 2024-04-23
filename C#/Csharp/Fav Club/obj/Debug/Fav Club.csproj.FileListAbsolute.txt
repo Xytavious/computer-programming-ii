@@ -3,3 +3,6 @@ C:\Users\williams.x\Documents\GitHub\computer-programming\C#\Csharp\Fav Club\bin
 C:\Users\williams.x\Documents\GitHub\computer-programming\C#\Csharp\Fav Club\bin\Debug\Fav Club.pdb
 C:\Users\williams.x\Documents\GitHub\computer-programming\C#\Csharp\Fav Club\obj\Debug\Fav Club.exe
 C:\Users\williams.x\Documents\GitHub\computer-programming\C#\Csharp\Fav Club\obj\Debug\Fav Club.pdb
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\Fav Club\bin\Debug\Fav Club.exe.config
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\Fav Club\obj\Debug\Fav Club.exe
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\Fav Club\obj\Debug\Fav Club.pdb

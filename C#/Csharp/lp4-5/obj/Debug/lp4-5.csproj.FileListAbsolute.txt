@@ -1,0 +1,6 @@
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\lp4-5\bin\Debug\lp4-5.exe.config
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\lp4-5\bin\Debug\lp4-5.exe
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\lp4-5\bin\Debug\lp4-5.pdb
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\lp4-5\obj\Debug\lp4-5.csprojResolveAssemblyReference.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\lp4-5\obj\Debug\lp4-5.exe
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\lp4-5\obj\Debug\lp4-5.pdb
