@@ -12,7 +12,9 @@ namespace Prog54cConsole
         {
             Console.WriteLine("What is the Radius");
             double rad = double.Parse(Console.ReadLine());
-            double cir = double
+            double cir = 
+            double ar = d
+
         }
     }
 }

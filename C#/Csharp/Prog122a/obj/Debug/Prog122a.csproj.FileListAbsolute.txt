@@ -1,0 +1,9 @@
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\Prog122a\bin\Debug\Prog122a.exe.config
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\Prog122a\obj\Debug\Prog122a.csprojResolveAssemblyReference.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\Prog122a\obj\Debug\Prog122a.Form1.resources
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\Prog122a\obj\Debug\Prog122a.Properties.Resources.resources
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\Prog122a\obj\Debug\Prog122a.csproj.GenerateResource.Cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\Prog122a\bin\Debug\Prog122a.exe
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\Prog122a\bin\Debug\Prog122a.pdb
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\Prog122a\obj\Debug\Prog122a.exe
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\Prog122a\obj\Debug\Prog122a.pdb
