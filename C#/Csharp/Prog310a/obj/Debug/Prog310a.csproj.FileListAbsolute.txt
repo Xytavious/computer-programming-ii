@@ -1,0 +1,9 @@
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\Prog310a\bin\Debug\Prog310a.exe.config
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\Prog310a\bin\Debug\Prog310a.exe
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\Prog310a\bin\Debug\Prog310a.pdb
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\Prog310a\obj\Debug\Prog310a.csprojResolveAssemblyReference.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\Prog310a\obj\Debug\Prog310a.Form1.resources
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\Prog310a\obj\Debug\Prog310a.Properties.Resources.resources
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\Prog310a\obj\Debug\Prog310a.csproj.GenerateResource.Cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\Prog310a\obj\Debug\Prog310a.exe
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\Prog310a\obj\Debug\Prog310a.pdb
