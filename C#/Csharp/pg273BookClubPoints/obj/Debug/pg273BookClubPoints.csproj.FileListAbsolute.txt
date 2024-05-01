@@ -1,0 +1,9 @@
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg273BookClubPoints\bin\Debug\pg273BookClubPoints.exe.config
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg273BookClubPoints\bin\Debug\pg273BookClubPoints.exe
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg273BookClubPoints\bin\Debug\pg273BookClubPoints.pdb
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg273BookClubPoints\obj\Debug\pg273BookClubPoints.csprojResolveAssemblyReference.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg273BookClubPoints\obj\Debug\pg273BookClubPoints.Form1.resources
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg273BookClubPoints\obj\Debug\pg273BookClubPoints.Properties.Resources.resources
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg273BookClubPoints\obj\Debug\pg273BookClubPoints.csproj.GenerateResource.Cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg273BookClubPoints\obj\Debug\pg273BookClubPoints.exe
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg273BookClubPoints\obj\Debug\pg273BookClubPoints.pdb
