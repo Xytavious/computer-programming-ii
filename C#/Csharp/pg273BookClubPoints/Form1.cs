@@ -40,5 +40,10 @@ namespace pg273BookClubPoints
             label1.Text = (" your Total points = " + p);
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label1.Text
+        }
     }
 }
