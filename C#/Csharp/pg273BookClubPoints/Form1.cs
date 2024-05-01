@@ -16,5 +16,15 @@ namespace pg273BookClubPoints
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int x = label1.Text;
+            label1.Text = (" input nuber of books in the Text Box");
+
+            int b = textBox1.Text;
+            if b => 0
+                x = (" your Total points = ", b);
+        }
     }
 }
