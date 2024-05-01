@@ -35,7 +35,32 @@
       "ProjectGuid": "4c68ec32-ad2e-43af-a590-37377514eb84",
       "DisplayName": "pg347Sum",
       "ColorIndex": 5
+    },
+    "6a16554d-b129-4c5b-90d5-2ff09726c635": {
+      "ProjectGuid": "6a16554d-b129-4c5b-90d5-2ff09726c635",
+      "DisplayName": "pg273BookClubPoints",
+      "ColorIndex": 6
+    },
+    "1b0b5fd1-5f13-4eab-9cb4-404ba1a29ef4": {
+      "ProjectGuid": "1b0b5fd1-5f13-4eab-9cb4-404ba1a29ef4",
+      "DisplayName": "Prog122a",
+      "ColorIndex": 7
+    },
+    "15e40601-5eb3-4698-bce2-c60fbd66bf55": {
+      "ProjectGuid": "15e40601-5eb3-4698-bce2-c60fbd66bf55",
+      "DisplayName": "lp4 - 2",
+      "ColorIndex": 8
+    },
+    "018cb55a-8b8d-4633-b2bf-089a02eabc66": {
+      "ProjectGuid": "018cb55a-8b8d-4633-b2bf-089a02eabc66",
+      "DisplayName": "Prog310a",
+      "ColorIndex": 9
+    },
+    "af8ff6ec-b165-45c4-a1c8-0fc7195159d4": {
+      "ProjectGuid": "af8ff6ec-b165-45c4-a1c8-0fc7195159d4",
+      "DisplayName": "Fav Club",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 11
 }
