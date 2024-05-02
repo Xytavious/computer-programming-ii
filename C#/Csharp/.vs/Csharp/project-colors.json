@@ -60,7 +60,12 @@
       "ProjectGuid": "af8ff6ec-b165-45c4-a1c8-0fc7195159d4",
       "DisplayName": "Fav Club",
       "ColorIndex": 10
+    },
+    "2846a7c9-e2d2-4aba-a7ca-2b6acc2242d8": {
+      "ProjectGuid": "2846a7c9-e2d2-4aba-a7ca-2b6acc2242d8",
+      "DisplayName": "pg266",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 12
 }
