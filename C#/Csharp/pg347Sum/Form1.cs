@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Microsoft.VisualBasic;
 
 namespace pg347Sum
 {
@@ -19,8 +20,13 @@ namespace pg347Sum
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string variable = Interaction.InputBox("prompt Here", "Title");
-            Message.Show(variable);
+            string variable = Interaction.InputBox("Prompt here", "Title");
+            MessageBox.Show(variable);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

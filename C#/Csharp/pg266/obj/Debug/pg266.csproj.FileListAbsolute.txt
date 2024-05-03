@@ -1,0 +1,11 @@
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg266\bin\Debug\pg266.exe.config
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg266\bin\Debug\pg266.exe
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg266\bin\Debug\pg266.pdb
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg266\obj\Debug\pg266.csproj.AssemblyReference.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg266\obj\Debug\pg266.csproj.SuggestedBindingRedirects.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg266\obj\Debug\pg266.Form1.resources
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg266\obj\Debug\pg266.Properties.Resources.resources
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg266\obj\Debug\pg266.csproj.GenerateResource.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg266\obj\Debug\pg266.csproj.CoreCompileInputs.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg266\obj\Debug\pg266.exe
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg266\obj\Debug\pg266.pdb

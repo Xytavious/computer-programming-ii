@@ -5,3 +5,7 @@ C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg347Sum\
 C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg347Sum\obj\Debug\pg347Sum.csproj.GenerateResource.Cache
 C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg347Sum\obj\Debug\pg347Sum.csproj.AssemblyReference.cache
 C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg347Sum\obj\Debug\pg347Sum.csproj.CoreCompileInputs.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg347Sum\bin\Debug\pg347Sum.exe
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg347Sum\bin\Debug\pg347Sum.pdb
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg347Sum\obj\Debug\pg347Sum.exe
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg347Sum\obj\Debug\pg347Sum.pdb
