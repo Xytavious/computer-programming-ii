@@ -1,0 +1,15 @@
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\calcWfun\bin\Debug\net6.0\calcWfun.exe
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\calcWfun\bin\Debug\net6.0\calcWfun.deps.json
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\calcWfun\bin\Debug\net6.0\calcWfun.runtimeconfig.json
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\calcWfun\bin\Debug\net6.0\calcWfun.dll
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\calcWfun\bin\Debug\net6.0\ref\calcWfun.dll
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\calcWfun\bin\Debug\net6.0\calcWfun.pdb
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\calcWfun\obj\Debug\net6.0\calcWfun.csproj.AssemblyReference.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\calcWfun\obj\Debug\net6.0\calcWfun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\calcWfun\obj\Debug\net6.0\calcWfun.AssemblyInfoInputs.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\calcWfun\obj\Debug\net6.0\calcWfun.AssemblyInfo.cs
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\calcWfun\obj\Debug\net6.0\calcWfun.csproj.CoreCompileInputs.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\calcWfun\obj\Debug\net6.0\calcWfun.dll
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\calcWfun\obj\Debug\net6.0\ref\calcWfun.dll
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\calcWfun\obj\Debug\net6.0\calcWfun.pdb
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\calcWfun\obj\Debug\net6.0\calcWfun.genruntimeconfig.cache
