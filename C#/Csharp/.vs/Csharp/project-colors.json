@@ -70,7 +70,27 @@
       "ProjectGuid": "a8897dfe-8150-4cea-8882-b1a2992f5d63",
       "DisplayName": "pg266",
       "ColorIndex": 12
+    },
+    "3331ef60-be68-4e1f-ab77-70c658768aca": {
+      "ProjectGuid": "3331ef60-be68-4e1f-ab77-70c658768aca",
+      "DisplayName": "massNweight",
+      "ColorIndex": 13
+    },
+    "f18cfa12-2df7-4256-85ef-a4c555c9038d": {
+      "ProjectGuid": "f18cfa12-2df7-4256-85ef-a4c555c9038d",
+      "DisplayName": "calcWfun",
+      "ColorIndex": 14
+    },
+    "2057c201-3ee7-4a71-9732-05cf03739429": {
+      "ProjectGuid": "2057c201-3ee7-4a71-9732-05cf03739429",
+      "DisplayName": "prog366b",
+      "ColorIndex": 15
+    },
+    "f665b1ea-b2a4-441a-b63d-5fb44dcbfc83": {
+      "ProjectGuid": "f665b1ea-b2a4-441a-b63d-5fb44dcbfc83",
+      "DisplayName": "MassNweight",
+      "ColorIndex": 0
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 1
 }
