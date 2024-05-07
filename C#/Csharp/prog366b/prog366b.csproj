@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F665B1EA-B2A4-441A-B63D-5FB44DCBFC83}</ProjectGuid>
+    <ProjectGuid>{2057C201-3EE7-4A71-9732-05CF03739429}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>MassNweight</RootNamespace>
-    <AssemblyName>MassNweight</AssemblyName>
+    <RootNamespace>prog366b</RootNamespace>
+    <AssemblyName>prog366b</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

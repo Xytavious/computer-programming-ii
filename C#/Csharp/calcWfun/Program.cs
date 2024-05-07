@@ -16,7 +16,8 @@ Console.WriteLine("result: " + res);
 wait();
 
 
-// ,access level. 
+// ,access level. <satic or not> <return type> name(<args) {}
+
 static void wait() { Console.ReadLine(); }
 
 

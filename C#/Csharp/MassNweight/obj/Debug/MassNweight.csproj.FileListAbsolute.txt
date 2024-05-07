@@ -1,0 +1,10 @@
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\MassNweight\bin\Debug\MassNweight.exe.config
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\MassNweight\bin\Debug\MassNweight.exe
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\MassNweight\bin\Debug\MassNweight.pdb
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\MassNweight\obj\Debug\MassNweight.csproj.SuggestedBindingRedirects.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\MassNweight\obj\Debug\MassNweight.Form1.resources
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\MassNweight\obj\Debug\MassNweight.Properties.Resources.resources
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\MassNweight\obj\Debug\MassNweight.csproj.GenerateResource.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\MassNweight\obj\Debug\MassNweight.csproj.CoreCompileInputs.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\MassNweight\obj\Debug\MassNweight.exe
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\MassNweight\obj\Debug\MassNweight.pdb

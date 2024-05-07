@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MassNweight
+namespace prog366b
 {
     internal static class Program
     {

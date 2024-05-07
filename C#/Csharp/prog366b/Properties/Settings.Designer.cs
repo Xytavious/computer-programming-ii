@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MassNweight.Properties
+namespace prog366b.Properties
 {
 
 
