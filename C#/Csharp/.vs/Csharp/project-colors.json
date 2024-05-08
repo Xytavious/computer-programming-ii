@@ -90,7 +90,12 @@
       "ProjectGuid": "f665b1ea-b2a4-441a-b63d-5fb44dcbfc83",
       "DisplayName": "MassNweight",
       "ColorIndex": 0
+    },
+    "26abc6ab-89b4-4a68-91e7-b3d1ce28dae5": {
+      "ProjectGuid": "26abc6ab-89b4-4a68-91e7-b3d1ce28dae5",
+      "DisplayName": "435 tic sales",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
