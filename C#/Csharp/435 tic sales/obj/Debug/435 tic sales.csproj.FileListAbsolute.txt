@@ -1,0 +1,13 @@
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\435 tic sales\bin\Debug\435 tic sales.exe.config
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\435 tic sales\bin\Debug\435 tic sales.exe
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\435 tic sales\bin\Debug\435 tic sales.pdb
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\435 tic sales\obj\Debug\435 tic sales.csproj.AssemblyReference.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\435 tic sales\obj\Debug\435 tic sales.csproj.SuggestedBindingRedirects.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\435 tic sales\obj\Debug\_435_tic_sales.Form1.resources
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\435 tic sales\obj\Debug\_435_tic_sales.GeneralForm.resources
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\435 tic sales\obj\Debug\_435_tic_sales.Properties.Resources.resources
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\435 tic sales\obj\Debug\435 tic sales.csproj.GenerateResource.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\435 tic sales\obj\Debug\435 tic sales.csproj.CoreCompileInputs.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\435 tic sales\obj\Debug\435 tic sales.exe
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\435 tic sales\obj\Debug\435 tic sales.pdb
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\435 tic sales\obj\Debug\_435_tic_sales.Student_Form.resources

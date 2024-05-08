@@ -8,3 +8,4 @@ C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\MassNweig
 C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\MassNweight\obj\Debug\MassNweight.csproj.CoreCompileInputs.cache
 C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\MassNweight\obj\Debug\MassNweight.exe
 C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\MassNweight\obj\Debug\MassNweight.pdb
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\MassNweight\obj\Debug\MassNweight.csproj.AssemblyReference.cache

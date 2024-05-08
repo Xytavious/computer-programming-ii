@@ -16,5 +16,16 @@ namespace MassNweight
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int mass = int.Parse(textBox1.Text);
+            double weight = mass * 9.8;
+            if (weight >= 1000)
+                label1.Text = ("it is too heavy ");
+            else if (weight <= 10)
+                label1.Text = (" it is too light");
+            else if (label1.Text = "the Weight is" + weight)
+        }
     }
 }
