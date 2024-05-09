@@ -1,0 +1,11 @@
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\prog122bWhile\obj\Debug\prog122bWhile.csproj.AssemblyReference.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\prog122bWhile\obj\Debug\prog122bWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\prog122bWhile\obj\Debug\prog122bWhile.Form1.resources
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\prog122bWhile\obj\Debug\prog122bWhile.Properties.Resources.resources
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\prog122bWhile\obj\Debug\prog122bWhile.csproj.GenerateResource.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\prog122bWhile\obj\Debug\prog122bWhile.csproj.CoreCompileInputs.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\prog122bWhile\bin\Debug\prog122bWhile.exe.config
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\prog122bWhile\bin\Debug\prog122bWhile.exe
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\prog122bWhile\bin\Debug\prog122bWhile.pdb
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\prog122bWhile\obj\Debug\prog122bWhile.exe
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\prog122bWhile\obj\Debug\prog122bWhile.pdb
