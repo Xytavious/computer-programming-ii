@@ -95,7 +95,12 @@
       "ProjectGuid": "26abc6ab-89b4-4a68-91e7-b3d1ce28dae5",
       "DisplayName": "435 tic sales",
       "ColorIndex": 1
+    },
+    "997807fe-1ac6-4b97-a1ce-5eede793bd0e": {
+      "ProjectGuid": "997807fe-1ac6-4b97-a1ce-5eede793bd0e",
+      "DisplayName": "prog122bWhile",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
