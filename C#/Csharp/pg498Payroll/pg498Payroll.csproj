@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{19F830D8-7A4F-403B-9F4A-711ED66E20F1}</ProjectGuid>
+    <ProjectGuid>{C5FEA341-6C12-4ADE-92F6-88483A3A591D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>pg344LoanCalc</RootNamespace>
-    <AssemblyName>pg344LoanCalc</AssemblyName>
+    <RootNamespace>pg498Payroll</RootNamespace>
+    <AssemblyName>pg498Payroll</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,6 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />

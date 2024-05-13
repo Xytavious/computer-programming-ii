@@ -1,0 +1,11 @@
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg344LoanCalc\bin\Debug\pg344LoanCalc.exe.config
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg344LoanCalc\bin\Debug\pg344LoanCalc.exe
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg344LoanCalc\bin\Debug\pg344LoanCalc.pdb
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg344LoanCalc\obj\Debug\pg344LoanCalc.csproj.AssemblyReference.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg344LoanCalc\obj\Debug\pg344LoanCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg344LoanCalc\obj\Debug\pg344LoanCalc.Form1.resources
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg344LoanCalc\obj\Debug\pg344LoanCalc.Properties.Resources.resources
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg344LoanCalc\obj\Debug\pg344LoanCalc.csproj.GenerateResource.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg344LoanCalc\obj\Debug\pg344LoanCalc.csproj.CoreCompileInputs.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg344LoanCalc\obj\Debug\pg344LoanCalc.exe
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\pg344LoanCalc\obj\Debug\pg344LoanCalc.pdb

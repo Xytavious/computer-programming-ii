@@ -100,7 +100,12 @@
       "ProjectGuid": "997807fe-1ac6-4b97-a1ce-5eede793bd0e",
       "DisplayName": "prog122bWhile",
       "ColorIndex": 2
+    },
+    "19f830d8-7a4f-403b-9f4a-711ed66e20f1": {
+      "ProjectGuid": "19f830d8-7a4f-403b-9f4a-711ed66e20f1",
+      "DisplayName": "pg344LoanCalc",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
