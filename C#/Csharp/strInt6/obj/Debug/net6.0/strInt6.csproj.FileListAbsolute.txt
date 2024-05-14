@@ -1,0 +1,15 @@
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\strInt6\bin\Debug\net6.0\strInt6.exe
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\strInt6\bin\Debug\net6.0\strInt6.deps.json
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\strInt6\bin\Debug\net6.0\strInt6.runtimeconfig.json
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\strInt6\bin\Debug\net6.0\strInt6.dll
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\strInt6\bin\Debug\net6.0\ref\strInt6.dll
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\strInt6\bin\Debug\net6.0\strInt6.pdb
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\strInt6\obj\Debug\net6.0\strInt6.csproj.AssemblyReference.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\strInt6\obj\Debug\net6.0\strInt6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\strInt6\obj\Debug\net6.0\strInt6.AssemblyInfoInputs.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\strInt6\obj\Debug\net6.0\strInt6.AssemblyInfo.cs
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\strInt6\obj\Debug\net6.0\strInt6.csproj.CoreCompileInputs.cache
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\strInt6\obj\Debug\net6.0\strInt6.dll
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\strInt6\obj\Debug\net6.0\ref\strInt6.dll
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\strInt6\obj\Debug\net6.0\strInt6.pdb
+C:\Users\williams.x\Documents\GitHub\computer-programming-ii\C#\Csharp\strInt6\obj\Debug\net6.0\strInt6.genruntimeconfig.cache
